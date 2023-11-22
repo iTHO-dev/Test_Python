@@ -3,6 +3,7 @@ import shutil
 text = """Shutil copyfile() Methode zum Kopieren von Dateien in Python\ntext"""
 
 print("Text:",text)
+print("hello!")
 
 # Shutil copyfile() Methode zum Kopieren von Dateien in Python
 # Es kopiert das Quellmaterial in eine Datei mit dem Zielnamen.
